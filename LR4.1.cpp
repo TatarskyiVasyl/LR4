@@ -1,4 +1,11 @@
-﻿#include <iostream>
+// Lab_04_1.cpp
+// Татарський Василь Петрович
+// Лабораторна робота №4.1
+// Цикли
+// Варіант 28
+
+
+#include <iostream>
 #include <cmath>
 
 using namespace std;
@@ -42,4 +49,5 @@ int main()
     cout << S << endl;
 
     return 0;
+
 }
